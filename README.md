@@ -3,12 +3,12 @@
  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" height="260"> 
 </div>
 
-<h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Vimal!</h1>
+<h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Rakesh!</h1>
 
 I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.Ramakrishnan College of Technology</b>, Trichy. I'm a passionate coder and have a huge enthusiasm in open source and problem solving. I have always been passionate about technology. I'm a person who always loves to takes on challenges !!
 <br>
 <br>
-<img src="https://komarev.com/ghpvc/?username=vimalprogrammer&label=Profile%20views&color=ce9927&style=flat" alt="vimalprogrammer" /> </p>
+<img src="https://komarev.com/ghpvc/?username=RakeshKumar-0206&label=Profile%20views&color=ce9927&style=flat" alt="RakeshKumar-0206" /> </p>
 ⚡ Fun fact **It’s not a bug – it’s an undocumented feature.**
 
 <h1 align="center">Tech-Stack</h1>
@@ -40,7 +40,7 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 <div align="center">
 
 
-<a  href="https://www.linkedin.com/in/vimalprogrammer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/in/RakeshKumar-0206/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/vimalms_" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:msvimal10@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="https://www.facebook.com/vimal.programmer/" target="_blank">
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
@@ -54,10 +54,10 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 
 <h1 align="center">Github Stats</h1>
  <div align="center" >
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vimalprogrammer&show_icons=true&theme=gotham" alt="vimalprogrammer" />  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalprogrammer&layout=compact&theme=dracula"><!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula--> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RakeshKumar-0206&show_icons=true&theme=gotham" alt="RakeshKumar-0206" />  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshKumar-0206&layout=compact&theme=dracula"><!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula--> 
 </div> 
  <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalprogrammer")>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshKumar-0206")>
 <div align="center">
 
  ### Coding Stats
