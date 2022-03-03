@@ -1,6 +1,6 @@
 <div align="center"> 
  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="250" height="260"> 
- <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" height="260"> 
+ <img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6541f31-12b2-4c19-b8ed-a19f2b3a56f9_800x591.gif" width="500" height="260"> 
 </div>
 
 <h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Rakesh!</h1>
