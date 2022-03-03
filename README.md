@@ -1,5 +1,5 @@
 <div align="center"> 
- <img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" width="250" height="260"> 
+ <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="250" height="260"> 
  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" height="260"> 
 </div>
 
