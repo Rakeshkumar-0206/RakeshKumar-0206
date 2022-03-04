@@ -42,12 +42,11 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 
 <a  href="https://www.linkedin.com/in/RakeshKumar-0206/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/vimalms_" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:msvimal10@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="https://www.facebook.com/vimal.programmer/" target="_blank">
+<a href="rakeshrocky1709@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="https://www.facebook.com/vimal.programmer/" target="_blank">
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
 <a  href="https://www.instagram.com/_vimal_ms/"><img alt=" Telegram" src="https://img.shields.io/badge/instagram-209230?style=for-the-badge&logo=instagram&logoColor=white">
- <a href="https://leetcode.com/vimal_ms/"> <img src="https://img.shields.io/badge/leetcode-999999?style=for-the-badge&logo=leetcode&logoColor=black">
-  <a href="https://www.youtube.com/channel/UCNyc_8sfzp_jYsx3A3LpmjA"> <img src="https://img.shields.io/badge/youtube-000000?style=for-the-badge&logo=youtube&logoColor=red">
-   <a href="https://www.codechef.com/users/vimalm"> <img src="https://img.shields.io/badge/codechef-800080?style=for-the-badge&logo=codechef&logoColor=pink">
+ <a href="https://leetcode.com/RakeshKumar-0206/"https://img.shields.io/badge/leetcode-999999?style=for-the-badge&logo=leetcode&logoColor=black">
+   <a href="https://www.codechef.com/users/rakeshkumar_02"> <img src="https://img.shields.io/badge/codechef-800080?style=for-the-badge&logo=codechef&logoColor=pink">
  </a>
 
 </div>
