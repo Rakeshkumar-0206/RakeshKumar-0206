@@ -41,7 +41,9 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 <a  href="https://www.instagram.com/_vimal_ms/"><img alt=" Telegram" src="https://img.shields.io/badge/instagram-209230?style=for-the-badge&logo=instagram&logoColor=white">
    <a href="https://www.codechef.com/users/rakeshkumar_02"> <img src="https://img.shields.io/badge/codechef-800080?style=for-the-badge&logo=codechef&logoColor=pink">
  </a>
- <a  href=https://www.hackerrank.com/Rakeshrocky1709"><img alt=" HackerRank" src="https://img.shields.io/badge/hackerrank-209230?style=for-the-badge&logo=hackerrank&logoColor=white">
+ <a href="https://www.hackerrank.com/Rakeshrocky1709"> <img src="https://img.shields.io/badge/hackerrank-209230?style=for-the-badge&logo=hackerrank&logoColor=white">
+ </a>
+ 
 
 
 </div>
