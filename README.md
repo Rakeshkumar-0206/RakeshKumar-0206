@@ -18,15 +18,9 @@ I have great enthusiasm in new innovative technologies and I love to learn and l
 <p align="center"> 
  <img alt="Java" src="https://img.shields.io/badge/java-%93I8234B.svg?&style=for-the-badge&logo=java&logoColor=brown" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/react-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%978F7D64E" />
- <img alt="Docker" src="https://img.shields.io/badge/docker-%93871678211.svg?&style=for-the-badge&logo=docker&logoColor=%9u7239" />
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
  <img alt="Python" src="https://img.shields.io/badge/python-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%278F7D64E" />
- <img alt="Django" src="https://img.shields.io/badge/django-%982380svg?&style=for-the-badge&logo=django&logoColor=black" />
- <img alt="SaSS" src="https://img.shields.io/badge/sass-%2388599C.svg?&style=for-the-badge&logo=sass&logoColor=pink%22" />
 </p>
 
 I believe in implementing the knowledge which I have. I'm always keen to learn and improve my technical skills so that I am 100% prepared for any challenging project.
