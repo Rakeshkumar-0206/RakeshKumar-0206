@@ -38,7 +38,8 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 <a href="https://twitter.com/vimalms_" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="rakeshrocky1709@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="https://www.facebook.com/rakesh.programmer/" target="_blank">
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
-<img alt="instagram" src="https://www.instagram.com/romeo_idiot_143/-%231877F2.svg?&style=for-the-badge&logo=instagram&logoColor=violet" />
+ <a href="https://www.instagram.com/romeo_idiot_143/"> <img src="https://img.shields.io/badge/instagram-%231877F2.svg?style=for-the-badge&logo=instagram&logoColor=white">
+ </a>
  <a href="https://www.hackerrank.com/Rakeshrocky1709"> <img src="https://img.shields.io/badge/hackerrank-209230?style=for-the-badge&logo=hackerrank&logoColor=white">
  </a>
  
