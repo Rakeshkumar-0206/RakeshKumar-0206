@@ -35,7 +35,6 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 
 
 <a  href="https://www.linkedin.com/in/RakeshKumar-0206/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/vimalms_" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="rakeshrocky1709@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="https://www.facebook.com/rakesh.programmer/" target="_blank">
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
  <a href="https://www.instagram.com/romeo_idiot_143/"> <img src="https://img.shields.io/badge/instagram-%232877A6.svg?style=for-the-badge&logo=instagram&logoColor=white">
